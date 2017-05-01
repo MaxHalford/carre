@@ -44,7 +44,7 @@ Original            |  Processed
 
 ## Usage
 
-Run pointu -h to get a list of available parameters.
+Run `pointu -h` to get a list of available parameters.
 
 ## License
 
