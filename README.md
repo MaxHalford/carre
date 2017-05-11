@@ -44,7 +44,7 @@ Original            |  Processed
 
 ## Usage
 
-Run `carre -h to get a list of available parameters.
+Run `carre -h` to get a list of available parameters.
 
 ## License
 
